@@ -13,25 +13,6 @@ Este laboratório propõe a construção de um pipeline de dados simples para in
 
 ---
 
-## Estrutura do Projeto
-
-```
-data-ops/
-├── data/
-│   ├── raw/
-│   │   └── orders_2026_03_23.csv
-│   └── curated/
-├── ingestion/
-│   └── load_orders.py
-├── warehouse/
-│   └── local.duckdb
-├── docs/
-├── .gitignore
-├── README.md
-```
-
----
-
 ## Tecnologias Utilizadas
 
 - Python 3.11+
@@ -102,11 +83,6 @@ data-ops/
 
 ---
 
-Para respostas conceituais da prática 2, veja `docs/pratica2.md`.
-	```
-
----
-
 ## Evidências de Execução
 
 ### Pratica 1:
@@ -134,3 +110,5 @@ Para respostas conceituais da prática 2, veja `docs/pratica2.md`.
 As respostas da reflexão final estão disponíveis em:
 
 - Reflexão Final da Prática 1: [docs/pratica1.md](docs/pratica1.md).
+
+- Respostas conceituais da prática 2: [docs/pratica2.md](docs/pratica2.md)
